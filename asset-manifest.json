@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fibonacci-grid/static/css/main.073c9b0a.css",
+    "main.js": "/fibonacci-grid/static/js/main.1ef088ef.js",
+    "static/js/787.ed05d6a8.chunk.js": "/fibonacci-grid/static/js/787.ed05d6a8.chunk.js",
+    "static/media/logo.svg": "/fibonacci-grid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fibonacci-grid/index.html",
+    "main.073c9b0a.css.map": "/fibonacci-grid/static/css/main.073c9b0a.css.map",
+    "main.1ef088ef.js.map": "/fibonacci-grid/static/js/main.1ef088ef.js.map",
+    "787.ed05d6a8.chunk.js.map": "/fibonacci-grid/static/js/787.ed05d6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1ef088ef.js"
+  ]
+}
