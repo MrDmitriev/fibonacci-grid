@@ -1,0 +1,13 @@
+.header {
+	display: flex;
+	flex-direction: row;
+	align-items: stretch;
+	justify-content: center;
+	margin: 0;
+
+	&__title {
+		color: white;
+		padding-bottom: 50px;
+	}
+}
+
