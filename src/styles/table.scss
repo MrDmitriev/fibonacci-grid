@@ -1,0 +1,31 @@
+.table-container {
+	overflow-y: auto;
+	overflow-x: hidden;
+  height: 60vh;
+	min-width: 32vw;
+}
+
+.table {
+	border-collapse: collapse;        
+	width: 100%;
+}
+
+.table__header {
+	>tr, th {
+		background: #d367a1;
+		padding: 20px;
+		text-align: left;
+		border-bottom: 0.1px dashed white;
+		position: sticky;
+		top: 0;
+	}
+}
+
+.table__body {
+	>tr, td {
+			padding: 20px;
+			text-align: left;
+			border-bottom: 0.1px dashed white;
+			cursor: pointer;
+	}
+}
