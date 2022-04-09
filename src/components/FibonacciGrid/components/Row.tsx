@@ -18,7 +18,7 @@ const Row = ({ row, rowNumber, onCellClick }: Props) => {
 			const event = new CustomEvent('fibonacci-sequence', { detail: { rowNumber, start, end } });
 			setTimeout(() => {
 				document.dispatchEvent(event);
-			}, 1000)
+			}, 2000)
 		}
 
 	}, [rowNumber, end, start])
