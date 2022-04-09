@@ -1,1 +1,1 @@
-export type Cell = {[index: number]: number};
+export type Cell = number;

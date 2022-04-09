@@ -1,3 +1,5 @@
-import { Cell } from "./Cell";
+import { Cell } from "./Cell"
 
-export type Row = {[index: number]: Cell};
+export type Row = {
+	[index: number]: Cell
+}

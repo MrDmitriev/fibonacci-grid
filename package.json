@@ -1,8 +1,7 @@
 {
-	"homepage": "https://mrdmitriev.github.io/fibonacci-grid/",
 	"name": "fibonacci-grid",
 	"version": "0.1.0",
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.11.4",
 		"@testing-library/react": "^11.1.0",
@@ -11,22 +10,15 @@
 		"@types/node": "^12.0.0",
 		"@types/react": "^17.0.37",
 		"@types/react-dom": "^17.0.0",
-		"axios": "^0.24.0",
 		"diacritics": "^1.3.0",
-		"gh-pages": "^3.2.3",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
-		"react-query": "^3.34.2",
 		"react-router-dom": "^6.2.2",
 		"react-scripts": "4.0.3",
-		"recharts": "^2.1.9",
 		"sass": "^1.49.9",
-		"typescript": "^4.1.2",
-		"web-vitals": "^1.0.1"
+		"typescript": "^4.1.2"
 	},
 	"scripts": {
-		"deploy": "gh-pages -d build",
-		"predeploy": "npm run build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
@@ -49,8 +41,5 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
-	},
-	"devDependencies": {
-		"gh-pages": "^3.2.3"
 	}
 }
